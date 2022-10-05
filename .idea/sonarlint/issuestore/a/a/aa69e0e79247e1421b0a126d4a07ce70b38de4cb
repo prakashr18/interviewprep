@@ -1,0 +1,29 @@
+
+J
+java:S3740+"/Provide the parametrized type for this generic.(öÌŠòşÿÿÿÿ
+J
+java:S3740+"/Provide the parametrized type for this generic.(öÌŠòşÿÿÿÿ
+J
+java:S3740,"/Provide the parametrized type for this generic.(—‚î—ÿÿÿÿÿ
+J
+java:S3740,"/Provide the parametrized type for this generic.(—‚î—ÿÿÿÿÿ
+B
+java:S1874",Remove this use of "stop"; it is deprecated.(Áñë›
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(·Š¡’ıÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(¸ñÄŠşÿÿÿÿ
+Z
+java:S1854,"?Remove this useless assignment to local variable "threadLocal".(—‚î—ÿÿÿÿÿ
+\
+java:S1854+"ARemove this useless assignment to local variable "blockingQueue".(öÌŠòşÿÿÿÿ
+Z
+java:S1854*"=Remove this useless assignment to local variable "longAdder".(Ü¿¹ø8·ù¡œ0
+O
+java:S18542"9Remove this useless assignment to local variable "stack".(‘Ö¶
+K
+java:S1481*".Remove this unused "longAdder" local variable.(Ü¿¹ø8ºù¡œ0
+M
+java:S1481+"2Remove this unused "blockingQueue" local variable.(öÌŠòşÿÿÿÿ
+K
+java:S1481,"0Remove this unused "threadLocal" local variable.(—‚î—ÿÿÿÿÿ
+@
+java:S14812"*Remove this unused "stack" local variable.(‘Ö¶

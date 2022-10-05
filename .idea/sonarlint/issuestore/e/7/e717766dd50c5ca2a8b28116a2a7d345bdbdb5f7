@@ -1,0 +1,15 @@
+
+V
+java:S1854	";Remove this useless assignment to local variable "person2".(ÍÑÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â¯˜‚
+G
+java:S1481	",Remove this unused "person2" local variable.(ÍÑÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‘ñÙùıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(İóÏıÿÿÿÿ
+U
+java:S1854":Remove this useless assignment to local variable "circle".(‚×éÿÿÿÿÿ
+Y
+java:S1659!">Declare "y" and all following declarations on a separate line.(…¢…€üÿÿÿÿ
+J
+java:S1172("/Remove these unused method parameters "x", "y".(ã‡¶üÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(”î¬Ô

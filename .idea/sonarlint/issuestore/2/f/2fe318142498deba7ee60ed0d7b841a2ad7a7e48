@@ -1,0 +1,21 @@
+
+[	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(³¡£¡
+n
+java:S1192"SDefine a constant instead of duplicating this literal "We are in thread: " 4 times.(øŸ™µüÿÿÿÿ
+=
+java:S1604"(Make this anonymous inner class a lambda(ô§ê
+C
+java:S1604"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ
+>
+java:S1604"(Make this anonymous inner class a lambda(øßÁ¸
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78óùÿ×™0
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(ôìæã
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(¢ƒß®úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(øŸ™µüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(›ïØØøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡Ö¾
+S	java:S106""9Replace this use of System.out or System.err by a logger.(øŸ™µüÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(›ïØØøÿÿÿÿ
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(Úı‡ÿ8ˆúÿ×™0

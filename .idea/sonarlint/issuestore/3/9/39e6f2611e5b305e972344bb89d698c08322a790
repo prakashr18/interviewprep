@@ -1,0 +1,29 @@
+
+k
+java:S1149("PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê¾’Ôúÿÿÿÿ
+k
+java:S1149?"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ê¾’Ôúÿÿÿÿ
+X	java:S125	"<This block of commented-out lines of code should be removed.(üŸƒ¨8›¿öîœ0
+L
+java:S1611"1Remove the parentheses around the "num" parameter(ŸªŽ±ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ŸªŽ±ýÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¥É=
+L
+java:S1611"1Remove the parentheses around the "num" parameter(ªýÖðùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªýÖðùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(È£õ'
+G
+java:S1611"1Remove the parentheses around the "num" parameter(¶µù¡
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¶µù¡
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÏÌÌ¨
+L
+java:S1611"1Remove the parentheses around the "num" parameter(¾ñÈüÿÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(¾ñÈüÿÿÿÿÿ8éíîœ0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8éíîœ0
+U	java:S106""9Replace this use of System.out or System.err by a logger.(ä•…è8æÿòîœ0
+N
+java:S1611#"1Remove the parentheses around the "num" parameter(žî‘â8éíîœ0
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(žî‘â8ŽÊóîœ0
